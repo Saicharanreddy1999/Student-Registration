@@ -1,1 +1,1 @@
-# Sample Student-Registration using ASP.Net MVC Framework
+# Sample Student-Registration using ASP.Net MVC and Entity Framework.
